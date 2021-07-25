@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vanya6537/qr-menu-frontend-next-js-typescript
